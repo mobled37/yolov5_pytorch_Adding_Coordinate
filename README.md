@@ -2,6 +2,7 @@
 <p>
    <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
    <img width="850" src="https://github.com/ultralytics/yolov5/releases/download/v1.0/splash.jpg"></a>
+   <img width="80%" src="https://user-images.githubusercontent.com/52445758/165080230-8f2c3f37-c2e7-4622-8885-18ba79c3b89d.mp4">
 </p>
 <br>
 <div>
